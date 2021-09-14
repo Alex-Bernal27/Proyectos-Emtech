@@ -3,5 +3,6 @@
 
 # Lista Proyectos
 
-- [Proyecto 1 Python](PROYECTO-01- BERNAL-ALEJANDRO.py)
+- [Codigo 1](PROYECTO-01- BERNAL-ALEJANDRO.py)
 - [Reporte 1](REPORTE-01-BERNAL-ALEJANDRO.pdfy)
+
