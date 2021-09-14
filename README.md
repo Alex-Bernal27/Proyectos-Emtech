@@ -1,5 +1,5 @@
 # Proyectos-Emtech
-> Lebenslangerschicksalsschatz: Cursos DATA SCIENCE de Emtech
+> Cursos DATA SCIENCE de Emtech
 
 # Lista Proyectos
 
